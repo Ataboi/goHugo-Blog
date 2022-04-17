@@ -1,5 +1,5 @@
-# gitpages-blog
- <h1 align="center">Hi 👋, I'm Ata</h1>
+
+ #<h1 align="center">Hi 👋, I'm Ata</h1>
 <h3 align="center">Glitch Artist & Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataboi&label=Profile%20views&color=ff7300&style=plastic" alt="ataboi" /> </p>
