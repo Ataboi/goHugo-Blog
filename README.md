@@ -25,7 +25,7 @@
 <a href="https://fb.com/g59sourceboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="g59sourceboy" height="30" width="40" /></a>
 <a href="https://instagram.com/ataozelbicer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ataozelbicer" height="30" width="40" /></a>
 <a href="https://www.behance.net/atamatatata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="atamatatata" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqtqzbkq72r4ffzy56xwhza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqtqzbkq72r4ffzy56xwhza" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucqtqzbkq72r4ffzy56xwhza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqtqzbkq72r4ffzy56xwhza" height="30" width="40" /></a>
 <a href="https://discord.gg/Ata#1725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ata#1725" height="30" width="40" /></a>
 </p>
 
